@@ -6,6 +6,7 @@ A Microsoft Sentinel workbook that maps risky, failed, and anonymized (VPN / pro
 ![Sign-in threat map](images/threat-map.png)
 <!-- Add sanitized screenshots to /images (blur IPs, usernames, and tenant details) -->
 
+
 ---
 
 ## Why I built this
@@ -69,7 +70,7 @@ Each IP also gets a **Verdict**: *Risky sign-in succeeded*, *Failed then succeed
 
 ## Repository contents
 
-**View online:** [KQL query](docs/query.md) · [Workbook JSON](docs/workbook.md)
+**View online:** [KQL query](https://github.com/marcusj12/Azure-SignInLog-Workbook/blob/main/query.md) · [Workbook JSON](https://github.com/marcusj12/Azure-SignInLog-Workbook/blob/main/workbook.md)
 
 ```
 ├── docs/query.md                              # Query page
