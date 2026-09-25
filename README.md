@@ -129,7 +129,3 @@ The `.kql` files use workbook parameters. To run them in the Logs blade, replace
 ## A note on using AI
 
 AI was a tool in this project, not the author of it. I used it to brainstorm approaches, draft KQL, and explain logic I hadn't worked with before. I defined the problem, raised the traveler/VPN false-positive concern that shaped the design, rejected over-engineered suggestions in favor of simpler ones, tested every version in my lab, and made sure I could explain each line before publishing.
-
-## License
-
-[MIT](LICENSE)
