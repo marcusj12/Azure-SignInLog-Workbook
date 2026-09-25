@@ -3,9 +3,13 @@
 
 A Microsoft Sentinel workbook that maps risky, failed, and anonymized (VPN / proxy / Tor) sign-ins on a geo map, then scores every **successful** risky sign-in against that user's own history, to separate a traveling employee on a VPN from an attacker using stolen credentials.
 
-![Sign-in threat map](images/threat-map.png)
-<!-- Add sanitized screenshots to /images (blur IPs, usernames, and tenant details) -->
+<img width="1455" height="767" alt="Anonymized IP Address" src="https://github.com/user-attachments/assets/443fb48a-efdf-4607-9e3a-49fa95542d81" />
 
+<img width="1411" height="442" alt="Map_View_Detailed Data" src="https://github.com/user-attachments/assets/50714e88-7f89-4e3a-ad55-f6dfa49e8933" />
+
+<img width="1437" height="392" alt="MoreData" src="https://github.com/user-attachments/assets/3d6f2209-56d6-464e-8f05-0a27e1f1fb6b" />
+
+<img width="1444" height="702" alt="ThreatScoringData" src="https://github.com/user-attachments/assets/8d4463d0-62de-46a9-bfc3-3cdb8d60bd0c" />
 
 ---
 
